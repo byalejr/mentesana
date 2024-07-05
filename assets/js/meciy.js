@@ -617,14 +617,6 @@
 
 
 
-
-
-
-
-
-
-
-
   function thmTinyInit() {
     // tiny slider
     const tinyElm = document.querySelectorAll(".thm-tiny__slider");
